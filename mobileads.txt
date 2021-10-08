@@ -2,5 +2,8 @@
 ||inner-active.mobi
 ||app-measurement.com
 ||applovin.com
+||applvn.com
 ||adsmoloco.com
 ||togothermany.cn
+||oath.com
+||marketo.com

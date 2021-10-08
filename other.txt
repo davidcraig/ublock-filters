@@ -1,4 +1,9 @@
 ||umeng.com
+||umengcloud.com
 ||wedobest.com.cn
 ||qq.com
 ||app-measurement.com
+||aarki.net
+||adjust.com
+||crisp.chat
+||segmentapis.com

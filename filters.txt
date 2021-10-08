@@ -9,3 +9,4 @@
 ||you-tube.tv
 ||googleadservices.com
 ||adsrvr.org
+||adtech.backyard.verizonmedia.com
