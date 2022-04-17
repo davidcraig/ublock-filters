@@ -11,10 +11,14 @@
 ! 3. Rug Pulled Projects
 ! 4. Other (or not yet classified).
 
-! 1. Generic Mint Scams
+! 1. Generic Scams: eg mint/collab
 ||mint-nfts.me
 ||mints-nft.live
 ||mintnftsale.live
+||s2-collab.land
+||datacollabportal.com
+||mint-salesweb.com
+||collbland.cc
 
 ! 2. Project Specific Scams
 ! Illuvium - real site: https://www.illuvium.io/
@@ -24,18 +28,24 @@
 ||waifuharem-mint.club
 ||waifuharemclub.com
 
+! VeeFriends - real site: https://veefriends.com/
+||veefriend.art
+
+! Undead Blocks - real site: https://www.undeadblocks.com/
+||undeadblocks.live
+||un-deadblocks.com
+
+! Mob.land - real site: https://mob.land/
+||mint-mob.land
+
+! Genopets - real site: https://www.genopets.me/
+||genopets-mint.com
+
+! Alpha Kongs Club - real site: https://www.alphakongsclub.com/
+||thealphakongs.com
+
 ! 3. Rug Pulled Projects (All traces disappeared after mint)
 ||kingdomspritez.com
 
 ! 4. Other
-||veefriend.art
-||undeadblocks.live
-||un-deadblocks.com
-||s2-collab.land
-||datacollabportal.com
-||mint-mob.land
-||collbland.cc
-||genopets-mint.com
-||mint-salesweb.com
-||thealphakongs.com
 ||give-sandbox.com
