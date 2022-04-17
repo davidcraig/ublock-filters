@@ -1,4 +1,33 @@
+! Title: Crypto Filters by David Craig
+! Description: A list of known bad sites involved in crypto scams.
+!
+! Homepage: https://github.com/davidcraig/ublock-filters/blob/main/crypto.txt
+!
+! GitHub pull requests: https://github.com/davidcraig/ublock-filters/pulls
+!
+! Contents
+! 1. Generic Mint Scams
+! 2. Project Specific Scams
+! 3. Rug Pulled Projects
+! 4. Other (or not yet classified).
+
+! 1. Generic Mint Scams
+||mint-nfts.me
+||mints-nft.live
+||mintnftsale.live
+
+! 2. Project Specific Scams
+! Illuvium - real site: https://www.illuvium.io/
 ||illeuvium.io
+
+! WaifuHarem Club Scams - real site: https://www.waifuharem.club/
+||waifuharem-mint.club
+||waifuharemclub.com
+
+! 3. Rug Pulled Projects (All traces disappeared after mint)
+||kingdomspritez.com
+
+! 4. Other
 ||veefriend.art
 ||undeadblocks.live
 ||un-deadblocks.com
@@ -10,8 +39,3 @@
 ||mint-salesweb.com
 ||thealphakongs.com
 ||give-sandbox.com
-||mintnftsale.live
-||mints-nft.live
-||mint-nfts.me
-||waifuharem-mint.club
-||waifuharemclub.com
