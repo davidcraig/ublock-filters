@@ -44,6 +44,7 @@
 ! Alpha Kongs Club - real site: https://www.alphakongsclub.com/
 ||thealphakongs.com
 ||alphakongsclub.netlify.app
+||alphakongzserver.net
 
 ! 3. Rug Pulled Projects (All traces disappeared after mint)
 ||kingdomspritez.com
