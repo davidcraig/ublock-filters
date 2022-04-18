@@ -54,3 +54,5 @@
 
 ! 4. Other
 ||give-sandbox.com
+||zukiapeclub.com
+||apeszukiclub.com
