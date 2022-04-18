@@ -46,11 +46,11 @@
 ||alphakongsclub.netlify.app
 ||alphakongzserver.net
 
+! Moonbirds - real site: https://moonbirds.xyz/
+||allowlists-moonbirds.xyz
+
 ! 3. Rug Pulled Projects (All traces disappeared after mint)
 ||kingdomspritez.com
 
 ! 4. Other
 ||give-sandbox.com
-
-
-https://cutt.ly/3FuZYKF
