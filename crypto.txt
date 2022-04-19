@@ -46,6 +46,7 @@
 ||thealphakongs.com
 ||alphakongsclub.netlify.app
 ||alphakongzserver.net
+||alphakongsclubnft.live
 
 ! Moonbirds - real site: https://moonbirds.xyz/
 ||allowlists-moonbirds.xyz
