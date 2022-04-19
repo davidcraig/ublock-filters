@@ -12,14 +12,15 @@
 ! 4. Other (or not yet classified).
 
 ! 1. Generic Scams: eg mint/collab
-||mint-nfts.me
-||mints-nft.live
-||mintnftsale.live
-||s2-collab.land
-||datacollabportal.com
-||mint-salesweb.com
-||collbland.cc
 ||captcha.digital
+||collbland.cc
+||datacollabportal.com
+||live-mints.com
+||mint-nfts.me
+||mint-salesweb.com
+||mintnftsale.live
+||mints-nft.live
+||s2-collab.land
 
 ! 2. Project Specific Scams
 ! Illuvium - real site: https://www.illuvium.io/
@@ -33,8 +34,8 @@
 ||veefriend.art
 
 ! Undead Blocks - real site: https://www.undeadblocks.com/
-||undeadblocks.live
 ||un-deadblocks.com
+||undeadblocks.live
 
 ! Mob.land - real site: https://mob.land/
 ||mint-mob.land
@@ -43,10 +44,10 @@
 ||genopets-mint.com
 
 ! Alpha Kongs Club - real site: https://www.alphakongsclub.com/
-||thealphakongs.com
 ||alphakongsclub.netlify.app
-||alphakongzserver.net
 ||alphakongsclubnft.live
+||alphakongzserver.net
+||thealphakongs.com
 
 ! Moonbirds - real site: https://moonbirds.xyz/
 ||allowlists-moonbirds.xyz
@@ -55,6 +56,7 @@
 ||kingdomspritez.com
 
 ! 4. Other
+||apeszukiclub.com
 ||give-sandbox.com
 ||zukiapeclub.com
-||apeszukiclub.com
+
