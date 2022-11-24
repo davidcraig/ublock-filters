@@ -1,3 +1,10 @@
+! Title: David Craig's uBlock Filters: Mobile Ads
+! Description: Bad websites
+!
+! Homepage: https://github.com/davidcraig/ublock-filters
+!
+! GitHub pull requests: https://github.com/davidcraig/ublock-filters/pulls
+
 ||unityads.unity3d.com
 ||inner-active.mobi
 ||app-measurement.com
