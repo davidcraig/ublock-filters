@@ -1,1 +1,8 @@
+! Title: David Craig's uBlock Filters: News
+! Description: Bad websites
+!
+! Homepage: https://github.com/davidcraig/ublock-filters
+!
+! GitHub pull requests: https://github.com/davidcraig/ublock-filters/pulls
+
 ||thedailybeast.com
