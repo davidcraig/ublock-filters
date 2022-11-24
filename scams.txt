@@ -1,5 +1,5 @@
 ! Title: David Craig's uBlock Filters: Scams
-! Description: A list of known bad sites involved in crypto scams.
+! Description: Bad Websites
 !
 ! Homepage: https://github.com/davidcraig/ublock-filters
 !
