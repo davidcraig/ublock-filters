@@ -10,10 +10,11 @@
 ||adjust.com
 ||app-measurement.com
 ||crisp.chat
+||fundsz.com
 ||hartfordreport.com
 ||qq.com
 ||segmentapis.com
 ||umeng.com
 ||umengcloud.com
-||wedobest.com.cn
 ||vv5v.com
+||wedobest.com.cn
